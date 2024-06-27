@@ -1,7 +1,7 @@
 ## Olá! Eu sou Aislan Oliveira 👋
 
 - 🔭 Atuando como Desenvolvedor Full Stack
-- 🌱 Cursando Ciência da Computação 9/9
+- 🌱 Cursando Ciência da Computação 10/10
 - 😃 Gosto de filmes e jogos
 
 <div align="center">
